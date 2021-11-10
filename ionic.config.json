@@ -1,5 +1,7 @@
 {
   "name": "fomturist",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
